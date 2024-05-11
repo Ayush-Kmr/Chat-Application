@@ -9,22 +9,22 @@ This is a simple chat application created using [MERN].
 
 ## Screenshots
 
-<div style="text-align: center; left:0; right:0;">
+<div style="text-align: center; margin-left: 20px; align-item:center; justify-content:center">
   <img src="./client/src/assets/s.png" width="400" height="200">
 </div>
-<div style="text-align: center; left:0; right:0;">
+<div style="text-align: center; margin-left: 20px; align-item:center; justify-content:center">
   <img src="./client/src/assets/s1.png" width="400" height="200">
 </div>
-<div style="text-align: center; left:0; right:0;">
+<div style="text-align: center; margin-left: 20px; align-item:center; justify-content:center">
   <img src="./client/src/assets/s2.png" width="400" height="200">
 </div>
-<div style="text-align: center; left:0; right:0;">
+<div style="text-align: center; margin-left: 20px; align-item:center; justify-content:center">
   <img src="./client/src/assets/s3.png" width="400" height="200">
 </div>
-<div style="text-align: center; left:0; right:0;">
+<div style="text-align: center; margin-left: 20px; align-item:center; justify-content:center">
   <img src="./client/src/assets/s4.png" width="400" height="200">
 </div>
-<div style="text-align: center; left:0; right:0;">
+<div style="text-align: center; margin-left: 20px; align-item:center; justify-content:center">
   <img src="./client/src/assets/s5.png" width="400" height="200">
 </div>
 
