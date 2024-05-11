@@ -49,9 +49,10 @@ This is a simple chat application created using [MERN].
 
 
 
-## Installation
+# Installation
+  <hr>
 
-# Server .env file
+## server .env file
 
 FRONTEND_URL = <Frontend URL>
 MONGODB_URI  = <Mongodb URI>
