@@ -13,33 +13,40 @@ This is a simple chat application created using [MERN].
 
 <div style="margin: 0 50px; width: 300px;">
   <img src="./client/src/assets/s.png" width="400" height="200">
-  <p>Logo: This is the logo of our chat application.</p>
+  <p><strong>Logo:</strong> This is the logo of our chat application.</p>
+  <hr>
 </div>
 
 <div style="margin: 0 auto; width: 300px;">
   <img src="./client/src/assets/s1.png" width="400" height="200">
-  <p>Main Page: This is the main page of our chat application.</p>
+  <p><strong>Main Page:</strong> This is the main page of our chat application.</p>
+  <hr>
 </div>
 
 <div style="margin: 0 auto; width: 300px;">
   <img src="./client/src/assets/s2.png" width="400" height="200">
-  <p>Register Page: This is the register page of our chat application.</p>
+  <p><strong>Register Page:</strong> This is the register page of our chat application.</p>
+  <hr>
 </div>
 
 <div style="margin: 0 auto; width: 300px;">
   <img src="./client/src/assets/s3.png" width="400" height="200">
-  <p>Login Page: This is the login page of our chat application.</p>
+  <p><strong>Login Page:</strong> This is the login page of our chat application.</p>
+  <hr>
 </div>
 
 <div style="margin: 0 auto; width: 300px;">
   <img src="./client/src/assets/s4.png" width="400" height="200">
-  <p>Search User: This page allows users to search for other registered users.</p>
+  <p><strong>Search User:</strong> This page allows users to search for other registered users.</p>
+  <hr>
 </div>
 
 <div style="margin: 0 auto; width: 300px;">
   <img src="./client/src/assets/s5.png" width="400" height="200">
-  <p>Sidebar and Chat Communication: This page displays the user's sidebar and open chat communication.</p>
+  <p><strong>Sidebar and Chat Communication:</strong> This page displays the user's sidebar and open chat communication.</p>
+  <hr>
 </div>
+
 
 
 ## Installation
