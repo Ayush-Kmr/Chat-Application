@@ -1,25 +1,34 @@
-﻿## Build Chat App with React, Socket.io, Nodejs, Redux-Toolkit, MongoDB (2024)
+﻿# Chat Application
 
-![Alt text](Full%20Stack%20Chat%20App.png?raw=true "Title")
+This is a simple chat application created using [MERN].
 
-Learn to build a real-time messaging Chat App using React, Socket.io, Node.js, Redux-Toolkit, and MongoDB. This tutorial series covers everything from setup to implementation, offering valuable insights and practical skills. Whether you're a beginner or an experienced developer, join us to take your React and Node.js expertise to the next level! Subscribe now and start building your own real-time messaging platform.
+## Features
 
-# Server .env file
+- Real-time messaging
+- User authentication
 
-FRONTEND_URL = <Frontend URL>
-MONGODB_URI  = <Mongodb URI>
-JWT_SECREAT_KEY = <JWT Secreat Key>
+## Screenshots
 
-# client .env file
+<img src="./client/src/assets/s.png" width="300" height="200"> 
+<img src="./client/src/assets/s1.png" width="300" height="200"> 
+<img src="./client/src/assets/s2.png" width="300" height="200"> 
+<img src="./client/src/assets/s3.png" width="300" height="200"> 
+<img src="./client/src/assets/s4.png" width="300" height="200"> 
+<img src="./client/src/assets/s5.png" width="300" height="200"> 
 
-REACT_APP_CLOUDINARY_CLOUD_NAME = <Cloudinary cloud name>
-REACT_APP_BACKEND_URL = <Backend URL>
+## Installation
 
-# Assets File
-Google Drive : https://drive.google.com/drive/folders/1mu6WFx63mlsbbwugdWgRGII_1YPruL00?usp=sharing 
+1. Clone this repository.
+2. [Insert installation steps here]
 
+## Usage
 
+1. [Insert usage instructions here]
 
+## Contributing
 
+Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
 
+## License
 
+This project is licensed under the [MIT License](LICENSE).
