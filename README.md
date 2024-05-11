@@ -80,5 +80,5 @@ This is a simple chat application created using [MERN].
 
 ## License
 
-This project, created by <span style="color:blue">**Ayush Kumar**</span>, is licensed under the [MIT License](LICENSE).
+This project, created by <span style="color:#0000FF">**Ayush Kumar**</span>, is licensed under the [MIT License](LICENSE).
 
