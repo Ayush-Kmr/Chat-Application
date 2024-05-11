@@ -86,7 +86,7 @@ const RegisterPage = () => {
               type="text"
               id="name"
               name="name"
-              placeholder="enter your name"
+              placeholder="Enter Your Name"
               className="bg-slate-100 px-2 py-1 focus:outline-gray border-0.5"
               value={data.name}
               onChange={handleOnChange}
@@ -100,7 +100,7 @@ const RegisterPage = () => {
               type="email"
               id="email"
               name="email"
-              placeholder="enter your email"
+              placeholder="Enter Your Email"
               className="bg-slate-100 px-2 py-1 focus:outline-gray"
               value={data.email}
               onChange={handleOnChange}
@@ -114,7 +114,7 @@ const RegisterPage = () => {
               type="password"
               id="password"
               name="password"
-              placeholder="enter your password"
+              placeholder="Enter Your Password"
               className="bg-slate-100 px-2 py-1 focus:outline-gray border-0.5"
               value={data.password}
               onChange={handleOnChange}
@@ -125,7 +125,7 @@ const RegisterPage = () => {
           <div className="flex flex-col gap-1">
             <label htmlFor="profile_pic">
               Photo :
-              <div className="h-14 bg-slate-200 flex justify-center items-center border rounded hover:border-primary cursor-pointer">
+              <div className="h-14 bg-slate-200 flex justify-center items-center border rounded hover:border-customGray cursor-pointer">
                 <p className="text-sm max-w-[300px] text-ellipsis line-clamp-1">
                   {uploadPhoto?.name
                     ? uploadPhoto?.name

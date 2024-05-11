@@ -93,7 +93,7 @@ const CheckPasswordPage = () => {
               type="password"
               id="password"
               name="password"
-              placeholder="enter your password"
+              placeholder="Enter Your Password"
               className="bg-slate-100 px-2 py-1 focus:outline-gray border-0.5"
               value={data.password}
               onChange={handleOnChange}

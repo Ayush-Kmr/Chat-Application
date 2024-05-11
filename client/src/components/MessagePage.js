@@ -332,7 +332,7 @@ const MessagePage = () => {
           {" "}
           <input
             type="text"
-            placeholder="Type here message..."
+            placeholder="Type your message here....."
             className="py-1 px-4 outline-none w-full h-full"
             value={message.text}
             onChange={handleOnChange}
