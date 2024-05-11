@@ -54,7 +54,7 @@ This is a simple chat application created using [MERN].
 ### server .env file
 
 <div>
-  FRONTEND_URL = "Frontend URL" 
+  FRONTEND_URL = <Frontend URL> 
 </div>
 
 <div>
