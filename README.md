@@ -77,14 +77,8 @@ This is a simple chat application created using [MERN].
 </div>
 
 
-## Usage
-
-1. [Insert usage instructions here]
-
-## Contributing
-
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project, created by <span style="color:blue">**Ayush Kumar**</span>, is licensed under the [MIT License](LICENSE).
+
