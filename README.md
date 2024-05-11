@@ -1,6 +1,6 @@
 ﻿# Chat Application
 
-This is a simple chat application created using [MERN].
+Build this Chat App with React, Socket.io, Nodejs, MongoDB.
 
 ## Features
 
