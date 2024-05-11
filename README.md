@@ -9,23 +9,23 @@ This is a simple chat application created using [MERN].
 
 ## Screenshots
 
-<div style="center">
-  <img src="./client/src/assets/s.png" width="300" height="200">
+<div style="text-align: center;">
+  <img src="./client/src/assets/s.png" width="500" height="200">
 </div>
-<div style="center">
-  <img src="./client/src/assets/s1.png" width="300" height="200">
+<div style="text-align: center;">
+  <img src="./client/src/assets/s1.png" width="400" height="400">
 </div>
-<div style="center">
-  <img src="./client/src/assets/s2.png" width="300" height="200">
+<div style="text-align: center;">
+  <img src="./client/src/assets/s2.png" width="400" height="400">
 </div>
-<div style="center">
-  <img src="./client/src/assets/s3.png" width="300" height="200">
+<div style="text-align: center;">
+  <img src="./client/src/assets/s3.png" width="400" height="400">
 </div>
-<div style="center">
+<div style="text-align: center;">
   <img src="./client/src/assets/s4.png" width="300" height="200">
 </div>
-<div style="center">
-  <img src="./client/src/assets/s5.png" width="300" height="200">
+<div style="text-align: center;">
+  <img src="./client/src/assets/s5.png" width="400" height="400">
 </div>
 
 ## Installation
