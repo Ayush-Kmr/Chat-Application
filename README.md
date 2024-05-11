@@ -68,8 +68,14 @@ This is a simple chat application created using [MERN].
 
 ### client .env file
 
-REACT_APP_CLOUDINARY_CLOUD_NAME = "Cloudinary cloud name"
-REACT_APP_BACKEND_URL = "Backend URL"
+<div>
+  <strong>REACT_APP_CLOUDINARY_CLOUD_NAME:</strong> "Cloudinary cloud name"
+</div>
+
+<div>
+  <strong>REACT_APP_BACKEND_URL:</strong> "Backend URL"
+</div>
+
 
 ## Usage
 
