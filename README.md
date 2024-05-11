@@ -53,11 +53,18 @@ This is a simple chat application created using [MERN].
 
 ### server .env file
 
-FRONTEND_URL = "Frontend URL" 
-\n
-MONGODB_URI  = "Mongodb URI"
-\n
-JWT_SECREAT_KEY = "JWT Secret Key"
+<div>
+  FRONTEND_URL = "Frontend URL" 
+</div>
+
+<div>
+  MONGODB_URI  = "Mongodb URI"
+</div>
+
+<div>
+  JWT_SECREAT_KEY = "JWT Secret Key"
+</div>
+
 
 ### client .env file
 
