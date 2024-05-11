@@ -54,26 +54,26 @@ This is a simple chat application created using [MERN].
 ### server .env file
 
 <div>
-  <strong>FRONTEND_URL:</strong> "Frontend URL" 
+  <strong>FRONTEND_URL:-- </strong> "Frontend URL" 
 </div>
 
 <div>
- <strong>MONGODB_URI:</strong> "Mongodb URI"
+ <strong>MONGODB_URI:-- </strong> "Mongodb URI"
 </div>
 
 <div>
-  <strong>JWT_SECREAT_KEY:</strong> "JWT Secret Key"
+  <strong>JWT_SECREAT_KEY:-- </strong> "JWT Secret Key"
 </div>
 
 
 ### client .env file
 
 <div>
-  <strong>REACT_APP_CLOUDINARY_CLOUD_NAME:</strong> "Cloudinary cloud name"
+  <strong>REACT_APP_CLOUDINARY_CLOUD_NAME:-- </strong> "Cloudinary cloud name"
 </div>
 
 <div>
-  <strong>REACT_APP_BACKEND_URL:</strong> "Backend URL"
+  <strong>REACT_APP_BACKEND_URL:-- </strong> "Backend URL"
 </div>
 
 
