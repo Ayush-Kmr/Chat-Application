@@ -73,7 +73,7 @@ This is a simple chat application created using [MERN].
 </div>
 
 <div>
-  <strong>REACT_APP_BACKEND_URL:-- </strong> "Backend URL"
+  <strong>REACT_APP_BACKEND_URL:-- </strong> [Backend URL](Backend URL).
 </div>
 
 
