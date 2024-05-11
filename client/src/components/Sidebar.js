@@ -12,6 +12,8 @@ import SearchUser from "./SearchUser";
 import { FaImage } from "react-icons/fa6";
 import { FaVideo } from "react-icons/fa6";
 import { logout } from "../redux/userSlice";
+import { toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 const Sidebar = () => {
   const user = useSelector((state) => state?.user);
@@ -61,6 +63,7 @@ const Sidebar = () => {
     dispatch(logout());
     navigate("/email");
     localStorage.clear();
+    toast.success("Logged out successfully!");
   };
 
   return (
