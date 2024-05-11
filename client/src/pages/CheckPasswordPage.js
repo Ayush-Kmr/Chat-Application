@@ -72,9 +72,6 @@ const CheckPasswordPage = () => {
     <div className="mt-5">
       <div className="bg-gradient-to-b from-customBlue via-customHover to-customDarkBlue max-w-md  rounded overflow-hidden p-4 mx-auto">
         <div className="w-fit mx-auto mb-2 flex justify-center items-center flex-col">
-          {/* <PiUserCircle
-                  size={80}
-                /> */}
           <Avatar
             width={70}
             height={70}

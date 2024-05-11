@@ -12,7 +12,7 @@ async function checkPassword(request, response) {
 
     if (!verifyPassword) {
       return response.status(400).json({
-        message: "Please check password",
+        message: "Wrong Password",
         error: true,
       });
     }
@@ -31,7 +31,7 @@ async function checkPassword(request, response) {
     };
 
     return response.cookie("token", token, cookieOptions).status(200).json({
-      message: "Login successfully",
+      message: "Login Successfully",
       token: token,
       success: true,
     });
