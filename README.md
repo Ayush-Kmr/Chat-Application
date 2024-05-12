@@ -62,7 +62,7 @@ Build this Chat App with React, Socket.io, Nodejs, MongoDB.
 </div>
 
 <div>
-  <strong>JWT_SECREAT_KEY:-- </strong> "JWT Secret Key"
+  <strong>JWT_SECRET_KEY:-- </strong> "JWT Secret Key"
 </div>
 
 
