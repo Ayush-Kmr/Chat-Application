@@ -6,7 +6,6 @@ import { BiLogOut } from "react-icons/bi";
 import Avatar from "./Avatar";
 import { useDispatch, useSelector } from "react-redux";
 import EditUserDetails from "./EditUserDetails";
-import Divider from "./Divider";
 import { FiArrowUpLeft } from "react-icons/fi";
 import SearchUser from "./SearchUser";
 import { FaImage } from "react-icons/fa6";
@@ -14,6 +13,7 @@ import { FaVideo } from "react-icons/fa6";
 import { logout } from "../redux/userSlice";
 import { toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+// import Divider from "./Divider";
 
 const Sidebar = () => {
   const user = useSelector((state) => state?.user);
